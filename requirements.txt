@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+nltk
+rake-nltk
+numpy
+fastparquet
